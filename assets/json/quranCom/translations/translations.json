@@ -1,0 +1,140 @@
+{
+  "translation": {
+    "english": [
+      {
+        "id": 85,
+        "name": "M.A.S. Abdel Haleem",
+        "author_name": "Abdul Haleem",
+        "slug": "en-haleem",
+        "language_name": "english",
+        "translated_name": {
+          "name": "M.A.S. Abdel Haleem",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 84,
+        "name": "T. Usmani",
+        "author_name": "Mufti Taqi Usmani",
+        "slug": "en-taqi-usmani",
+        "language_name": "english",
+        "translated_name": {
+          "name": "T. Usmani",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 19,
+        "name": "M. Pickthall",
+        "author_name": "Mohammed Marmaduke William Pickthall",
+        "slug": "quran.en.pickthall",
+        "language_name": "english",
+        "translated_name": {
+          "name": "M. Pickthall",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 22,
+        "name": "A. Yusuf Ali",
+        "author_name": "Abdullah Yusuf Ali",
+        "slug": "quran.en.yusufali",
+        "language_name": "english",
+        "translated_name": {
+          "name": "A. Yusuf Ali",
+          "language_name": "english"
+        }
+      }
+    ],
+    "urdu": [
+      {
+        "id": 54,
+        "name": "Maulana Muhammad Junagarhi",
+        "author_name": "Maulana Muhammad Junagarhi",
+        "slug": "ur-junagarri",
+        "language_name": "urdu",
+        "translated_name": {
+          "name": "Maulana Muhammad Junagarhi",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 156,
+        "name": "Fe Zilal al-Qur'an",
+        "author_name": "Sayyid Ibrahim Qutb",
+        "slug": "urdu-sayyid-qatab",
+        "language_name": "urdu",
+        "translated_name": {
+          "name": "Fi Zilal al-Qur'an",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 151,
+        "name": "Shaykh al-Hind Mahmud al-Hasan(with Tafsir E Usmani)",
+        "author_name": "Shaykh al-Hind Mahmud al-Hasan",
+        "slug": "tafsir-e-usmani",
+        "language_name": "urdu",
+        "translated_name": {
+          "name": "Shaykh al-Hind Mahmud al-Hasan(with Tafsir E Usmani)",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 158,
+        "name": "Bayan-ul-Quran",
+        "author_name": "Dr. Israr Ahmad",
+        "slug": "bayan-ul-quran",
+        "language_name": "urdu",
+        "translated_name": {
+          "name": "Bayan-ul-Quran (Dr. Israr Ahmad)",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 97,
+        "name": "Tafheem e Qur'an - Syed Abu Ali Maududi",
+        "author_name": "Syed Abu Ali Maududi",
+        "slug": "ur-al-maududi",
+        "language_name": "urdu",
+        "translated_name": {
+          "name": "Tafheem e Qur'an - Syed Abu Ali Maududi",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 819,
+        "name": "Maulana Wahiduddin Khan",
+        "author_name": "Maulana Wahiduddin Khan",
+        "slug": "maulana-wahid-uddin-khan-urdu",
+        "language_name": "urdu",
+        "translated_name": {
+          "name": "Maulana Wahiduddin Khan",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 831,
+        "name": "Abul Ala Maududi(Roman Urdu)",
+        "author_name": "Abul Ala Maududi",
+        "slug": "maududi-roman-urdu",
+        "language_name": "urdu",
+        "translated_name": {
+          "name": "Abul Ala Maududi(Roman Urdu)",
+          "language_name": "english"
+        }
+      },
+      {
+        "id": 234,
+        "name": "Fatah Muhammad Jalandhari",
+        "author_name": "Fatah Muhammad Jalandhari",
+        "slug": "ur-fatah-muhammad-jalandhari",
+        "language_name": "urdu",
+        "translated_name": {
+          "name": "Fatah Muhammad Jalandhari",
+          "language_name": "english"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Food and Beverage",
+      "icon": "assets/images/business/food.png",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "Restaurant",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/foodAndBeverage.json"
+        },
+        {
+          "id": 102,
+          "name": "Catering Services",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/foodAndBeverage.json"
+        },
+        {
+          "id": 103,
+          "name": "Coffee Shop",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/foodAndBeverage.json"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Technology and IT Services",
+      "icon": "assets/images/business/technology.png",
+      "subcategories": [
+        {
+          "id": 201,
+          "name": "Web Design & Development",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/technologyAndITServices.json"
+        },
+        {
+          "id": 202,
+          "name": "Software Development",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/technologyAndITServices.json"
+        },
+        {
+          "id": 203,
+          "name": "IT Consulting",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/technologyAndITServices.json"
+        },
+        {
+          "id": 204,
+          "name": "Digital Marketing",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/technologyAndITServices.json"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Retail",
+      "icon": "assets/images/business/shop.png",
+      "subcategories": [
+        {
+          "id": 301,
+          "name": "Grocery Store",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/retail.json"
+        },
+        {
+          "id": 302,
+          "name": "Pharmacy",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/retail.json"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Health and Wellness",
+      "icon": "assets/images/business/health.png",
+      "subcategories": [
+        {
+          "id": 401,
+          "name": "Medical Clinic",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/healthAndWellness.json"
+        },
+        {
+          "id": 402,
+          "name": "Dental Office",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/healthAndWellness.json"
+        },
+        {
+          "id": 403,
+          "name": "Physical Therapy Center",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/healthAndWellness.json"
+        },
+        {
+          "id": 404,
+          "name": "Mental Health Services",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/healthAndWellness.json"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Professional Services",
+      "icon": "assets/images/business/professional.png",
+      "subcategories": [
+        {
+          "id": 501,
+          "name": "Legal Services (Law Firm)",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/professionalServices.json"
+        },
+        {
+          "id": 502,
+          "name": "Accounting and Bookkeeping",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/professionalServices.json"
+        },
+        {
+          "id": 503,
+          "name": "Financial Planning",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/professionalServices.json"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Home Services",
+      "icon": "assets/images/business/home.png",
+      "subcategories": [
+        {
+          "id": 601,
+          "name": "Plumbing",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
+        },
+        {
+          "id": 602,
+          "name": "Electrical Services",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
+        },
+        {
+          "id": 603,
+          "name": "Landscaping",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
+        },
+        {
+          "id": 604,
+          "name": "Cleaning Services",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
+        },
+        {
+          "id": 605,
+          "name": "Roofing",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Education and Training",
+      "icon": "assets/images/business/education.png",
+      "subcategories": [
+        {
+          "id": 701,
+          "name": "Tutoring Services",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/educationAndTraining.json"
+        },
+        {
+          "id": 702,
+          "name": "Online Courses",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/educationAndTraining.json"
+        },
+        {
+          "id": 703,
+          "name": "Language School",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/educationAndTraining.json"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Real Estate",
+      "icon": "assets/images/business/realEstate.png",
+      "subcategories": [
+        {
+          "id": 801,
+          "name": "Real Estate Agency",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/realEstate.json"
+        },
+        {
+          "id": 802,
+          "name": "Property Management",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/realEstate.json"
+        },
+        {
+          "id": 803,
+          "name": "Rental Services",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/realEstate.json"
+        },
+        {
+          "id": 804,
+          "name": "Real Estate Development",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/realEstate.json"
+        },
+        {
+          "id": 805,
+          "name": "Mortgage Broker",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/realEstate.json"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Transportation and Logistics",
+      "icon": "assets/images/business/transportation.png",
+      "subcategories": [
+        {
+          "id": 901,
+          "name": "Taxi/Cab Services",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/transportationAndLogistics.json"
+        },
+        {
+          "id": 902,
+          "name": "Delivery Services",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/transportationAndLogistics.json"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Finance and Insurance",
+      "icon": "assets/images/business/finance.png",
+      "subcategories": [
+        {
+          "id": 1001,
+          "name": "Bank",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/financeAndInsurance.json"
+        },
+        {
+          "id": 1002,
+          "name": "Credit Union",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/financeAndInsurance.json"
+        },
+        {
+          "id": 1003,
+          "name": "Insurance Agency",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/financeAndInsurance.json"
+        },
+        {
+          "id": 1004,
+          "name": "Investment Advisory",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/financeAndInsurance.json"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Automotive Services",
+      "icon": "assets/images/business/automotive.png",
+      "subcategories": [
+        {
+          "id": 1101,
+          "name": "Car Repair",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/automotiveServices.json"
+        },
+        {
+          "id": 1102,
+          "name": "Auto Detailing",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/automotiveServices.json"
+        },
+        {
+          "id": 1103,
+          "name": "Car Dealership",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/automotiveServices.json"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Nonprofit and Charity",
+      "icon": "assets/images/business/nonprofit.png",
+      "subcategories": [
+        {
+          "id": 1201,
+          "name": "Animal Rescue",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/nonprofitAndCharity.json"
+        },
+        {
+          "id": 1202,
+          "name": "Homeless Shelter",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/nonprofitAndCharity.json"
+        },
+        {
+          "id": 1203,
+          "name": "Food Bank",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/nonprofitAndCharity.json"
+        },
+        {
+          "id": 1204,
+          "name": "Community Center",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/nonprofitAndCharity.json"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Event Services",
+      "icon": "assets/images/business/event.png",
+      "subcategories": [
+        {
+          "id": 1301,
+          "name": "Wedding Planning",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/eventServices.json"
+        },
+        {
+          "id": 1302,
+          "name": "Catering",
+          "imageUrl": "https://i.imgur.com/d5RR4rp.png",
+          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/eventServices.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "namesOfAllahData": [
+    {
+      "id": 1,
+      "audio": "audio/allah_names.mp3",
+      "json": "assets/json/namesOfAllah/default/namesOfAllah.json",
+      "reciter": "Tawashih Muhammad, the Messenger of Allah (PBUH) Group"
+    },
+    {
+      "id": 2,
+      "audio": "audio/allah_names_atif_aslam.mp3",
+      "json": "assets/json/namesOfAllah/atifAslam/namesOfAllah.json",
+      "reciter": "Atif Aslam"
+    }
+  ]
+}

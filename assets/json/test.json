@@ -1,0 +1,109 @@
+{
+  "segments": [
+    {
+      "segment_id": 1,
+      "en_segment": "Daily",
+      "ar_segment": "يومي",
+      "id_segment": "Harian",
+      "fr_segment": "Quotidien",
+      "ms_segment": "Harian",
+      "es_segment": "Diario",
+      "ur_segment": "روزمرّہ کی دعائیں",
+      "tr_segment": "Günlük"
+    }
+  ],
+  "categories": [
+    {
+      "en_category": "Sleeping",
+      "category_id": 1,
+      "ar_category": "النوم",
+      "id_category": "Tidur",
+      "fr_category": "Dormir",
+      "ms_category": "Tidur",
+      "es_category": "Dormir",
+      "ur_category": "نیند سے پہلے اور جاگںے کے بعد",
+      "tr_category": "Uyku"
+    }
+  ],
+
+  "titles": [
+    {
+      "title_id": 1,
+      "en_title": "When you wake up",
+      "fr_title": "Au réveil",
+      "id_title": "Semasa bangun tidur",
+      "ar_title": "أذكار الإستيقاظ مِن النوم",
+      "ms_title": "Semasa bangun tidur",
+      "es_title": "Al despertarse",
+      "ur_title": "نیند سے بیدار ہونے کے بعد کی دعائیں",
+      "tr_title": "Uyandığınızda"
+    }
+  ],
+
+  "duas": [
+    {
+      "ar_description": "",
+      "ar_translation": "",
+      "arabic": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَحۡيَانَا بَعۡدَ مَا أَمَاتَنَا وَإِلَيۡهِ ٱلنُّشُورُ",
+      "dua_id": 1,
+      "dua_of_the_day": 0,
+      "dua_of_the_day_id": 0,
+      "en_description": "",
+      "en_translation": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+      "es_description": "",
+      "es_translation": "",
+      "fr_description": "",
+      "fr_translation": "",
+      "id_description": "",
+      "id_translation": "",
+      "indopak_arab": "اَلۡحَمۡدُ لِلّٰہِ الَّذِیۡ أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "ms_description": "",
+      "ms_translation": "",
+      "tr_description": "",
+      "tr_translation": "",
+      "transliteration": "Alhamdu lillahil-lathee ahyana baAAda ma amatana wa-ilayhin-nushoor.",
+      "ur_description": "",
+      "ur_translation": "",
+      "uthmani_arab": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَحۡيَانَا بَعۡدَ مَا أَمَاتَنَا وَإِلَيۡهِ ٱلنُّشُورُ"
+    }
+  ],
+  "references": [
+    {
+      "reference_id": 1,
+      "ar_reference": "٦٣١٢ : صحيح البخاري",
+      "fr_reference": "",
+      "id_reference": "",
+      "ms_reference": "",
+      "es_reference": "",
+      "ur_reference": "٦٣١٢ : صحيح بخاری",
+      "en_reference": "Sahih Al-Bukhari: 6312",
+      "tr_reference": ""
+    }
+  ],
+
+  "benefits": [
+    {
+      "benefits_id": 1,
+      "ar_benefits": "قُل هذا الدُعاء 3 مرات. عندما كان يُريد النبي (صلى الله عليه وسلم) أن يرقد لينام، أعتاد أن يضع يده اليمنى تحت خده ويقول هذا الدُعاء.",
+      "fr_benefits": "Récitez cette dua trois fois. Quand le Prophète (SAW) voulait s'allonger pour dormir, il plaçait sa main droite sous sa joue et récitait cette dua.",
+      "id_benefits": "Baca doa ini sebanyak tiga kali. Ketika Rasululloh (SAW) berbaring untuk tidur, beliau biasanya menaruh tangan kanan dibawah pipinya dan membaca doa ini.",
+      "en_benefits": "Recite this dua three times. When Prophet (SAW) wanted to lie down to sleep, he used to place his right hand under his cheek and recite this dua.",
+      "ms_benefits": "Baca doa ini sebanyak tiga kali. Semasa Nabi (SAW) hendak baring untuk tidur, Baginda akan meletakkan tangan kanannya di bawah pipinya dan membaca doa ini.",
+      "es_benefits": "Recita esta súplica (dua) tres veces. Cuando el Profeta (SAW) quiso acostarse para dormir, estaba acostumbrado a poner su mano derecha debajo de su mejilla y recita esta dua.",
+      "ur_benefits": "یہ دعا تین مرتبہ پڑھیں۔ جب حضرت محمد ﷺ سونے کا ارادہ کرتے تو اپنا دایاں ہاتھ اپنے دائیں رخسار کے نیچے رکھ کر یہ دعا پڑھتے۔",
+      "tr_benefits": "Bu duayı üç kez okuyun. Peygamberimiz (SAV) uyumak için uzandığında sağ elini yanağının altına koyar ve bu duayı okurdu."
+    }
+  ],
+
+  "relations": [
+    {
+      "id": 2,
+      "segment_id": 1,
+      "category_id": 1,
+      "title_id": 1,
+      "dua_id": 1,
+      "reference_id": 1,
+      "benefits_id": null
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "transliteration": [
+    {
+      "id": 57,
+      "name": "Transliteration",
+      "author_name": "Transliteration",
+      "slug": "transliteration",
+      "language_name": "english",
+      "translated_name": {
+        "name": "Transliteration",
+        "language_name": "english"
+      }
+    }
+  ]
+}
